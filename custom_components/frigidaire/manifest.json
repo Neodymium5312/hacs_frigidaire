@@ -1,0 +1,19 @@
+{
+  "domain": "frigidaire",
+  "name": "frigidaire",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/frigidaire",
+  "requirements": [
+    "certifi>=2020.12.5",
+    "chardet>=4.0.0",
+    "idna>=2.10",
+    "requests>=2.25.1",
+    "urllib3>=1.26.4"
+  ],
+  "dependencies": [],
+  "codeowners": [
+    "@rothn"
+  ],
+  "iot_class": "cloud_polling",
+  "version": "1.0.0"
+}
